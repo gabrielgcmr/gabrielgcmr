@@ -1,5 +1,6 @@
-## Hi there 👋
+## Eu sou Gabriel Cactus. Médico e programador nas horas vagas.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielgcmr&show_icons=true&theme=radical)
 <!--
 **gabrielgcmr/gabrielgcmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
