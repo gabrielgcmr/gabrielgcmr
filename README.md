@@ -1,4 +1,4 @@
-## Eu sou Gabriel Cactus. Médico e programador nas horas vagas.
+## Eu sou Gabriel Cactus. Médico.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielgcmr&show_icons=true&theme=radical)
 <!--
